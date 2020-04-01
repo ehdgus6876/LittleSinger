@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:a="http://schemas.android.com/apk/res/android">
+
+    <item a:state_focused="true" a:drawable="@drawable/single_btn"/>
+    <item a:state_pressed="true" a:drawable="@drawable/click_singlemode"/>
+    <item a:drawable="@drawable/single_btn"/>
+
+</selector>
