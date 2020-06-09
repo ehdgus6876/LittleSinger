@@ -12,8 +12,7 @@ Google STT를 활용한 음성인식 동요 노래방
 ![initial](https://user-images.githubusercontent.com/40512570/84158555-f7fbf880-aaa6-11ea-8cdc-1d90481e1f8f.jpg)
 
 ### 3. SpeechRecognition
-![initial](https://user-
-images.githubusercontent.com/40512570/84158677-1bbf3e80-aaa7-11ea-8ec7-4958b77f752a.png)
+![initial](https://user-images.githubusercontent.com/40512570/84158677-1bbf3e80-aaa7-11ea-8ec7-4958b77f752a.png)
 
 ### 4. Record Version
 ![initial](https://user-images.githubusercontent.com/40512570/84158859-4f9a6400-aaa7-11ea-9fed-cfa5f157b654.png)
